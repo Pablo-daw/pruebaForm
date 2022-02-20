@@ -1,1 +1,15 @@
-
+{
+  apellidos: "aaaa",
+  asunto: "asdfasdf",
+  codigoPostal: "",
+  direccion: "",
+  email: "aaa@aa.com",
+  mensaje: "fasdfa",
+  newsletter: "on",
+  nombre: "aaaaa",
+  pais: "BG",
+  politica: "Aceptar política",
+  provincia: null,
+  sitioWeb: "",
+  telefono: "123456789"
+}
